@@ -1,4 +1,4 @@
-## your name
+## Wade Papineau
  
 you don't have to use your real name, remember: but if you use a pseudonym, let me know via private message in our slack space
 
