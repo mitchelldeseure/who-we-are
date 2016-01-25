@@ -2,7 +2,7 @@
  
 
 ## My Online HQ
-[GitHub](https://wadepapineau.github.io)
+[GitHub](https://wadepapineau.github)
 this section will include a link to your own domain, and a link to your open notebook
 
 ## anything else
