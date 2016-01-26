@@ -2,7 +2,7 @@
  
 
 ## My Online HQ
-[GitHub](https://github.com/wadepapineau)..
+[GitHub](https://github.com/wadepapineau)  
 [Web](http://wbphistory.com)
 
 ## anything else
