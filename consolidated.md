@@ -39,3 +39,5 @@ Lee https://github.com/leemordechai/my-notebook
 Nzsydney http://wtap.vuw.ac.nz/wordpress/digital-history/
 
 Rob http://bladesrob.com/
+
+Emma emmaboonstra.ca/blog
