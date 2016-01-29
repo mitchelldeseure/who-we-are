@@ -40,4 +40,4 @@ Nzsydney http://wtap.vuw.ac.nz/wordpress/digital-history/
 
 Rob http://bladesrob.com/
 
-Emma emmaboonstra.ca/blog
+Emma http://emmaboonstra.ca/blog
