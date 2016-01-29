@@ -20,7 +20,7 @@ Mel http://theproudhistorynerd.com, https://github.com/1991MelJ
 
 Anastasia www.caseyhistorical.com
 
-Hiryon snowycicada.com, https://github.com/hiryonpark
+Hiryon http://snowycicada.com, https://github.com/hiryonpark
 
 Jason www.tracert.ca
 
