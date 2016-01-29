@@ -16,7 +16,7 @@ Kathryn http://www.kathryngreenan.ca, https://github.com/katgreenan
 
 Thomas www.LonerganThomas.com
 
-Mel theproudhistorynerd.com, https://github.com/1991MelJ
+Mel http://theproudhistorynerd.com, https://github.com/1991MelJ
 
 Anastasia www.caseyhistorical.com
 
