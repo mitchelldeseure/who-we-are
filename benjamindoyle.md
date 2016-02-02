@@ -2,7 +2,7 @@
 ## Benjamin Doyle
 
 + https://github.com/prefaces
-+ prefaces.ca
++ prefaces.ca/
 
 ## I am a big fan of Ultimate Frisbee and am always happy to teach new players!
 
