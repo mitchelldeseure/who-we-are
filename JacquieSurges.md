@@ -1,6 +1,6 @@
 **make a copy of this file. Rename the COPY to yourname.md**
 
-# Put your name here
+JacquieSurges
 
 + add the link to your github repo
 + add the link to your properly set up domain (ie, you've got a blog or something at www.yourdomain.whatever
